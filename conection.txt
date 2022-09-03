@@ -1,0 +1,5 @@
+Conection for VS Code: 
+mongodb+srv://guest:gPedqR19cdK7pTNt@cluster-projeto-mongodb.mzbctnx.mongodb.net/test
+
+Mongo user: guest
+Mongo password: gPedqR19cdK7pTNt
